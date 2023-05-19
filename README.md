@@ -1,3 +1,3 @@
 # merge-test
 
-this is src-branch
+this is merge-branch
