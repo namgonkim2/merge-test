@@ -1,5 +1,5 @@
 # merge-test
 
-none conflict
+none conflict. 
 
-in tar2
+we are merged.  
