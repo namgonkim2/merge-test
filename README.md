@@ -1,3 +1,3 @@
 # merge-test
 
-none conflict
+conflict
